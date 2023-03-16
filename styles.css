@@ -1,0 +1,36 @@
+h1{
+    font-size: 1px;
+}
+
+.col-2 {
+    border: 1px solid #3f3f3f;
+    background-color: #3f3f3f;
+    padding: 10px;
+    border-radius: 10px;
+    border-left: none;
+}
+.btn {
+    background-color: #3f3f3f;
+    color: #FFFFFF;
+    border: none;
+   
+    font-size: 16px;
+    padding: 10px 20px;
+}
+.btn:hover {
+    background-color: #FFA500;
+    color: #FFFFFF;
+    border: none;
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+.btn-primary{
+    background-color: transparent;
+    border-color: transparent;
+    color: black;
+    
+}
+.btn-primary:hover{
+    background-color: #FFFFFF;
+}
